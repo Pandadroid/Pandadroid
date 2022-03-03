@@ -1,4 +1,4 @@
-### Hi there 👋
+I'm currently working on [Chika](https://discord.com/oauth2/authorize?client_id=723745070573944902&permissions=1099981777942&scope=applications.commands+bot). And I'm learning C++
 
 <!--
 **Pandadroid/Pandadroid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
