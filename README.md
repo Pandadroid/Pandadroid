@@ -1,4 +1,2 @@
-<div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/692927550896472075)](https://discord.com/users/692927550896472075)
-</div>
+![My Github stats](https://github-readme-stats.vercel.app/api?username=Pandadroid&count_private=true&hide_border=true&show_icons=true&theme=nord)
